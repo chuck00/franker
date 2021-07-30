@@ -1,0 +1,8 @@
+[defaults]
+url=https://sentry.zzgqsh.com/
+http.verify_ssl = false
+org=zzgqsh
+project=gqsh-shop-h5
+ 
+[auth]
+token=d3b105b063a64fc1bafaead0497d9e2bcd8f888b05624ccf9e32fa14a888db89
